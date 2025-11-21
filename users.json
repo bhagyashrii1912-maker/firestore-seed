@@ -1,0 +1,58 @@
+[
+  {
+    "user_id": "u_01",
+    "name": "Bhagyashri",
+    "email": "bhagyashri@example.com",
+    "age": 21,
+    "location": "India"
+  },
+  {
+    "user_id": "u_02",
+    "name": "Aaravi",
+    "email": "aaravi@example.com",
+    "age": 28,
+    "location": "India"
+  },
+  {
+    "user_id": "u_03",
+    "name": "Maya",
+    "email": "maya@example.com",
+    "age": 22,
+    "location": "India"
+  },
+  {
+    "user_id": "u_04",
+    "name": "Rohan",
+    "email": "rohan@example.com",
+    "age": 31,
+    "location": "India"
+  },
+  {
+    "user_id": "u_05",
+    "name": "Sana",
+    "email": "sana@example.com",
+    "age": 27,
+    "location": "India"
+  },
+  {
+    "user_id": "u_06",
+    "name": "Vikram",
+    "email": "vikram@example.com",
+    "age": 35,
+    "location": "India"
+  },
+  {
+    "user_id": "u_07",
+    "name": "Isha",
+    "email": "isha@example.com",
+    "age": 24,
+    "location": "India"
+  },
+  {
+    "user_id": "u_08",
+    "name": "Karan",
+    "email": "karan@example.com",
+    "age": 29,
+    "location": "India"
+  }
+]

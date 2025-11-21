@@ -1,0 +1,580 @@
+[
+  {
+    "recipe_id": "r_02",
+    "name": "Cheesy Mac 1",
+    "description": "Synthetic recipe for testing.",
+    "prep_time_minutes": 20,
+    "difficulty": "hard",
+    "cuisine": "Indian",
+    "created_by": "u_01",
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": "100g"
+      },
+      {
+        "name": "spinach",
+        "quantity": "50g"
+      }
+    ],
+    "steps": [
+      "Boil pasta",
+      "Prepare veggies",
+      "Mix pasta and serve"
+    ],
+    "created_at": "2025-11-20T05:45:33.880Z"
+  },
+  {
+    "recipe_id": "r_03",
+    "name": "Veg Delight 2",
+    "description": "Synthetic recipe for testing.",
+    "prep_time_minutes": 32,
+    "difficulty": "easy",
+    "cuisine": "Fusion",
+    "created_by": "u_03",
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": "100g"
+      },
+      {
+        "name": "garlic",
+        "quantity": "50g"
+      }
+    ],
+    "steps": [
+      "Boil pasta",
+      "Prepare veggies",
+      "Mix pasta and serve"
+    ],
+    "created_at": "2025-11-20T05:45:34.853Z"
+  },
+  {
+    "recipe_id": "r_04",
+    "name": "Tomato Basil 3",
+    "description": "Synthetic recipe for testing.",
+    "prep_time_minutes": 18,
+    "difficulty": "hard",
+    "cuisine": "Fusion",
+    "created_by": "u_01",
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": "100g"
+      },
+      {
+        "name": "tomato",
+        "quantity": "50g"
+      }
+    ],
+    "steps": [
+      "Boil pasta",
+      "Prepare veggies",
+      "Mix pasta and serve"
+    ],
+    "created_at": "2025-11-20T05:45:35.808Z"
+  },
+  {
+    "recipe_id": "r_05",
+    "name": "Mushroom Pasta 4",
+    "description": "Synthetic recipe for testing.",
+    "prep_time_minutes": 32,
+    "difficulty": "medium",
+    "cuisine": "Indian",
+    "created_by": "u_04",
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": "100g"
+      },
+      {
+        "name": "tomato",
+        "quantity": "50g"
+      }
+    ],
+    "steps": [
+      "Boil pasta",
+      "Prepare veggies",
+      "Mix pasta and serve"
+    ],
+    "created_at": "2025-11-20T05:45:37.223Z"
+  },
+  {
+    "recipe_id": "r_06",
+    "name": "Tomato Basil 5",
+    "description": "Synthetic recipe for testing.",
+    "prep_time_minutes": 18,
+    "difficulty": "easy",
+    "cuisine": "Fusion",
+    "created_by": "u_01",
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": "100g"
+      },
+      {
+        "name": "paneer",
+        "quantity": "50g"
+      }
+    ],
+    "steps": [
+      "Boil pasta",
+      "Prepare veggies",
+      "Mix pasta and serve"
+    ],
+    "created_at": "2025-11-20T05:45:37.752Z"
+  },
+  {
+    "recipe_id": "r_07",
+    "name": "Cheesy Mac 6",
+    "description": "Synthetic recipe for testing.",
+    "prep_time_minutes": 30,
+    "difficulty": "medium",
+    "cuisine": "Fusion",
+    "created_by": "u_01",
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": "100g"
+      },
+      {
+        "name": "garlic",
+        "quantity": "50g"
+      }
+    ],
+    "steps": [
+      "Boil pasta",
+      "Prepare veggies",
+      "Mix pasta and serve"
+    ],
+    "created_at": "2025-11-20T05:45:39.135Z"
+  },
+  {
+    "recipe_id": "r_08",
+    "name": "Mushroom Pasta 7",
+    "description": "Synthetic recipe for testing.",
+    "prep_time_minutes": 37,
+    "difficulty": "hard",
+    "cuisine": "Italian",
+    "created_by": "u_06",
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": "100g"
+      },
+      {
+        "name": "spinach",
+        "quantity": "50g"
+      }
+    ],
+    "steps": [
+      "Boil pasta",
+      "Prepare veggies",
+      "Mix pasta and serve"
+    ],
+    "created_at": "2025-11-20T05:45:39.538Z"
+  },
+  {
+    "recipe_id": "r_09",
+    "name": "Tomato Basil 8",
+    "description": "Synthetic recipe for testing.",
+    "prep_time_minutes": 10,
+    "difficulty": "easy",
+    "cuisine": "Fusion",
+    "created_by": "u_02",
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": "100g"
+      },
+      {
+        "name": "spinach",
+        "quantity": "50g"
+      }
+    ],
+    "steps": [
+      "Boil pasta",
+      "Prepare veggies",
+      "Mix pasta and serve"
+    ],
+    "created_at": "2025-11-20T05:45:40.851Z"
+  },
+  {
+    "recipe_id": "r_10",
+    "name": "Mushroom Pasta 9",
+    "description": "Synthetic recipe for testing.",
+    "prep_time_minutes": 17,
+    "difficulty": "easy",
+    "cuisine": "Fusion",
+    "created_by": "u_06",
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": "100g"
+      },
+      {
+        "name": "tomato",
+        "quantity": "50g"
+      }
+    ],
+    "steps": [
+      "Boil pasta",
+      "Prepare veggies",
+      "Mix pasta and serve"
+    ],
+    "created_at": "2025-11-20T05:45:41.336Z"
+  },
+  {
+    "recipe_id": "r_11",
+    "name": "Veg Delight 10",
+    "description": "Synthetic recipe for testing.",
+    "prep_time_minutes": 34,
+    "difficulty": "hard",
+    "cuisine": "Fusion",
+    "created_by": "u_01",
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": "100g"
+      },
+      {
+        "name": "spinach",
+        "quantity": "50g"
+      }
+    ],
+    "steps": [
+      "Boil pasta",
+      "Prepare veggies",
+      "Mix pasta and serve"
+    ],
+    "created_at": "2025-11-20T05:45:42.647Z"
+  },
+  {
+    "recipe_id": "r_12",
+    "name": "Aglio Olio 11",
+    "description": "Synthetic recipe for testing.",
+    "prep_time_minutes": 28,
+    "difficulty": "hard",
+    "cuisine": "Indian",
+    "created_by": "u_03",
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": "100g"
+      },
+      {
+        "name": "spinach",
+        "quantity": "50g"
+      }
+    ],
+    "steps": [
+      "Boil pasta",
+      "Prepare veggies",
+      "Mix pasta and serve"
+    ],
+    "created_at": "2025-11-20T05:45:43.099Z"
+  },
+  {
+    "recipe_id": "r_13",
+    "name": "Cheesy Mac 12",
+    "description": "Synthetic recipe for testing.",
+    "prep_time_minutes": 34,
+    "difficulty": "medium",
+    "cuisine": "Fusion",
+    "created_by": "u_06",
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": "100g"
+      },
+      {
+        "name": "garlic",
+        "quantity": "50g"
+      }
+    ],
+    "steps": [
+      "Boil pasta",
+      "Prepare veggies",
+      "Mix pasta and serve"
+    ],
+    "created_at": "2025-11-20T05:45:44.234Z"
+  },
+  {
+    "recipe_id": "r_14",
+    "name": "Mushroom Pasta 13",
+    "description": "Synthetic recipe for testing.",
+    "prep_time_minutes": 25,
+    "difficulty": "easy",
+    "cuisine": "Fusion",
+    "created_by": "u_04",
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": "100g"
+      },
+      {
+        "name": "garlic",
+        "quantity": "50g"
+      }
+    ],
+    "steps": [
+      "Boil pasta",
+      "Prepare veggies",
+      "Mix pasta and serve"
+    ],
+    "created_at": "2025-11-20T05:45:44.767Z"
+  },
+  {
+    "recipe_id": "r_15",
+    "name": "Cheesy Mac 14",
+    "description": "Synthetic recipe for testing.",
+    "prep_time_minutes": 30,
+    "difficulty": "hard",
+    "cuisine": "Italian",
+    "created_by": "u_02",
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": "100g"
+      },
+      {
+        "name": "spinach",
+        "quantity": "50g"
+      }
+    ],
+    "steps": [
+      "Boil pasta",
+      "Prepare veggies",
+      "Mix pasta and serve"
+    ],
+    "created_at": "2025-11-20T05:45:47.418Z"
+  },
+  {
+    "recipe_id": "r_16",
+    "name": "Aglio Olio 15",
+    "description": "Synthetic recipe for testing.",
+    "prep_time_minutes": 25,
+    "difficulty": "easy",
+    "cuisine": "Fusion",
+    "created_by": "u_04",
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": "100g"
+      },
+      {
+        "name": "garlic",
+        "quantity": "50g"
+      }
+    ],
+    "steps": [
+      "Boil pasta",
+      "Prepare veggies",
+      "Mix pasta and serve"
+    ],
+    "created_at": "2025-11-20T05:45:47.847Z"
+  },
+  {
+    "recipe_id": "r_17",
+    "name": "Cheesy Mac 16",
+    "description": "Synthetic recipe for testing.",
+    "prep_time_minutes": 28,
+    "difficulty": "medium",
+    "cuisine": "Indian",
+    "created_by": "u_06",
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": "100g"
+      },
+      {
+        "name": "tomato",
+        "quantity": "50g"
+      }
+    ],
+    "steps": [
+      "Boil pasta",
+      "Prepare veggies",
+      "Mix pasta and serve"
+    ],
+    "created_at": "2025-11-20T05:45:50.074Z"
+  },
+  {
+    "recipe_id": "r_18",
+    "name": "Aglio Olio 17",
+    "description": "Synthetic recipe for testing.",
+    "prep_time_minutes": 10,
+    "difficulty": "hard",
+    "cuisine": "Fusion",
+    "created_by": "u_05",
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": "100g"
+      },
+      {
+        "name": "garlic",
+        "quantity": "50g"
+      }
+    ],
+    "steps": [
+      "Boil pasta",
+      "Prepare veggies",
+      "Mix pasta and serve"
+    ],
+    "created_at": "2025-11-20T05:45:50.751Z"
+  },
+  {
+    "recipe_id": "r_19",
+    "name": "Tomato Basil 18",
+    "description": "Synthetic recipe for testing.",
+    "prep_time_minutes": 10,
+    "difficulty": "medium",
+    "cuisine": "Fusion",
+    "created_by": "u_06",
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": "100g"
+      },
+      {
+        "name": "spinach",
+        "quantity": "50g"
+      }
+    ],
+    "steps": [
+      "Boil pasta",
+      "Prepare veggies",
+      "Mix pasta and serve"
+    ],
+    "created_at": "2025-11-20T05:45:51.746Z"
+  },
+  {
+    "recipe_id": "r_20",
+    "name": "Mushroom Pasta 19",
+    "description": "Synthetic recipe for testing.",
+    "prep_time_minutes": 22,
+    "difficulty": "hard",
+    "cuisine": "Fusion",
+    "created_by": "u_01",
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": "100g"
+      },
+      {
+        "name": "garlic",
+        "quantity": "50g"
+      }
+    ],
+    "steps": [
+      "Boil pasta",
+      "Prepare veggies",
+      "Mix pasta and serve"
+    ],
+    "created_at": "2025-11-20T05:45:52.728Z"
+  },
+  {
+    "recipe_id": "r_21",
+    "name": "Aglio Olio 20",
+    "description": "Synthetic recipe for testing.",
+    "prep_time_minutes": 16,
+    "difficulty": "hard",
+    "cuisine": "Indian",
+    "created_by": "u_07",
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": "100g"
+      },
+      {
+        "name": "paneer",
+        "quantity": "50g"
+      }
+    ],
+    "steps": [
+      "Boil pasta",
+      "Prepare veggies",
+      "Mix pasta and serve"
+    ],
+    "created_at": "2025-11-20T05:45:53.672Z"
+  },
+  {
+    "recipe_id": "r_user_01",
+    "name": "Comfort Pasta",
+    "description": "Simple pasta with veggies and cheese.",
+    "prep_time_minutes": 25,
+    "difficulty": "easy",
+    "cuisine": "Italian",
+    "created_by": "u_01",
+    "source_pdf": "C:\\Users\\admin\\OneDrive\\Documents\\firestore-seed\\Bhagyashri Khedkar_Data Engineer_Activity-5.pdf",
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": "120g"
+      },
+      {
+        "name": "water",
+        "quantity": "750ml"
+      },
+      {
+        "name": "salt",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "oil",
+        "quantity": "1 tbsp"
+      },
+      {
+        "name": "onion",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "tomato",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "capsicum",
+        "quantity": "1/2"
+      },
+      {
+        "name": "carrot",
+        "quantity": "1 small"
+      },
+      {
+        "name": "pasta masala",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "chilli flakes",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "red chilli powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "tomato sauce",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "turmeric",
+        "quantity": "1/4 tsp"
+      },
+      {
+        "name": "cheese",
+        "quantity": "2 tbsp"
+      }
+    ],
+    "steps": [
+      "Boil water with salt.",
+      "Cook pasta for 10–12 minutes.",
+      "Sauté onions until golden.",
+      "Add vegetables and stir for 3–4 minutes.",
+      "Add spices + tomato sauce.",
+      "Mix pasta and cook for 5 minutes.",
+      "Serve with cheese."
+    ],
+    "created_at": "2025-11-20T05:45:32.859Z"
+  }
+]
